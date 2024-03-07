@@ -13,4 +13,5 @@ print(ano_nascimento == ano_formatura)
 print((ano_nascimento > ano_formatura) and (ano_nascimento > ano_formatura))
 print((ano_nascimento <= ano_formatura) or (ano_nascimento > ano_formatura))
 print(ano_nascimento == ano_formatura)
-print(not(ano_nascimento == ano_formatura))
+print(not(ano_nascimento == ano_formatura) # == quer dizer igual
+print(ano_nascimento != ano_formatura) # != quer dizer diferente
